@@ -1,0 +1,1 @@
+{"version":3,"file":"es5component.js","sourceRoot":"","sources":["es5component.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,sCAAwC;AAMxC;IAGI;QACI,IAAI,CAAC,IAAI,GAAG,KAAK,CAAC;IACtB,CAAC;IALQ,mBAAmB;QAJ/B,gBAAS,CAAC;YACP,QAAQ,EAAE,gBAAgB;YAC1B,QAAQ,EAAE,uCAAuC;SACpD,CAAC;;OACW,mBAAmB,CAM/B;IAAD,0BAAC;CAAA,AAND,IAMC;AANY,kDAAmB"}
